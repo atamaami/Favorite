@@ -12,4 +12,12 @@ I love playing board games, especially with family and friends. There is a wide 
 4. Thirteen
 5. Speed
 
-##
+## My Favorite Music Genre: R&B
+
+My favorite music genre is R&B. R&B music is FIRE and fun to bop to. Also, I feel nostalgic when listening to R&B because I've listened to it my whole life.
+
+### R&B Artists I Listen To
+- [Chris Brown](https://www.youtube.com/@ChrisBrownTV)
+- [T-Pain](https://www.youtube.com/@tpain)
+- [Ayra Starr](https://www.example.com)
+
