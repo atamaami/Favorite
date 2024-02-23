@@ -1,5 +1,5 @@
 # My Favorites
-My favorite activity, music genre, movie(s), video game, and website, etc.
+My favorite activity, music genre, and website.
 
 ## My Favorite Activity: Board Games
 
