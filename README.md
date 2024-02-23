@@ -8,7 +8,7 @@ I love playing board games, especially with family and friends. There's a wide v
 - Board games are competitive
 
 ![alt text](uno-cover.jpg)
-  
+
 ### My Top 5 Favorite Board Games
 1. Uno
 2. Spoons
