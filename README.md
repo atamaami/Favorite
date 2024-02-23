@@ -21,3 +21,7 @@ My favorite music genre is R&B. R&B music is FIRE and fun to bop to. Also, I fee
 - [T-Pain](https://www.youtube.com/@tpain)
 - [Ayra Starr](https://www.example.com)
 
+## My Favorite Website: YouTube
+
+My favorite website is YouTube because it can be a source of entertainment, education, and discovery. 
+![alt text](youtube.jpg)
