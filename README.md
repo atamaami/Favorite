@@ -1,2 +1,2 @@
 # Favorite
-My favorite activity, music genre, movie(s), video game, and websites
+My favorite activity, music genre, movie(s), video game, and website, etc.
