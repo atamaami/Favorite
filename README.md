@@ -24,4 +24,4 @@ My favorite music genre is R&B. R&B music is FIRE and fun to bop to. Also, I fee
 ## My Favorite Website: YouTube
 
 My favorite website is YouTube because it can be a source of entertainment, education, and discovery. 
-![alt text](.jpg)
+![alt text](youtube.jpg)
