@@ -4,7 +4,7 @@ I love playing board games, especially with family and friends. There's a wide v
 
 ![alt text](uno-cover.jpg)
 
-### 3 Reasons Why
+### 3 Reasons Why I Love Board Games
 - Board games are fun
 - Board games are bonding
 - Board games are competitive
