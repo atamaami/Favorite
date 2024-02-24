@@ -2,12 +2,12 @@
 
 I love playing board games, especially with family and friends. There's a wide variety of games to play, and each creates memories filled with fun, exciting, and hilarious experiences.
 
+![alt text](uno-cover.jpg)
+
 ### 3 Reasons Why
 - Board games are fun
 - Board games are bonding
 - Board games are competitive
-
-![alt text](uno-cover.jpg)
 
 ### My Top 5 Favorite Board Games
 1. Uno
