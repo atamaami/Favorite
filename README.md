@@ -16,5 +16,4 @@ I love playing board games, especially with family and friends. There's a wide v
 4. Thirteen
 5. Speed
 
-### How To Play Uno
-[How To Play Uno](https://www.youtube.com/watch?v=sWoSZmHsCls&ab_channel=wikiHow)
+### [How To Play Uno](https://www.youtube.com/watch?v=sWoSZmHsCls&ab_channel=wikiHow)
