@@ -5,9 +5,9 @@ I love playing board games, especially with family and friends. There's a wide v
 ![alt text](uno-cover.jpg)
 
 ### 3 Reasons Why I Love Board Games
-- Board games are **fun** because 
-- Board games are **bonding** because
-- Board games are **competitive** because
+- Board games are **fun** because they are entertaining and engaging.
+- Board games are **bonding** because they create a shared memory or experience, and are a form of spending quality time together.
+- Board games are **competitive** because they require using skill and strategy to become the winner.
 
 ### My Top 5 Favorite Board Games
 1. Uno
