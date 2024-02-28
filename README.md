@@ -1,8 +1,8 @@
 # My Favorite Activity: Board Games
 
-I love playing board games, especially with family and friends. There's a wide variety of games to play, and each creates memories filled with fun, exciting, and hilarious experiences. (elborate on summary)
+I love playing board games, especially with family and friends. There's a wide variety of games to play, and each creates memories filled with fun, exciting, and hilarious experiences.
 
-![alt text](uno-cover.jpg)
+![alt text](314474-1600x1066-uno-rules-brief-history.jpg)
 
 ### 3 Reasons Why I Love Board Games
 - Board games are **fun** because they are entertaining and engaging.
